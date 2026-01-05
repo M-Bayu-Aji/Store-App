@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/models/store.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/pages/carts.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/providers/cart_provider.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/services/store.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/widgets/card_store.dart';
+import 'package:shopping_app/models/store.dart';
+import 'package:shopping_app/pages/carts.dart';
+import 'package:shopping_app/providers/cart_provider.dart';
+import 'package:shopping_app/services/store.dart';
+import 'package:shopping_app/widgets/card_store.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class StorePage extends StatefulWidget {

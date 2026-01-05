@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/pages/home_page.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/providers/cart_provider.dart';
+import 'package:shopping_app/pages/home_page.dart';
+import 'package:shopping_app/providers/cart_provider.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       create: (context) => CartProvider(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Bayyy App Store',
+        title: 'Shopping App',
         theme: ThemeData(
           primarySwatch: Colors.teal,
           useMaterial3: true,

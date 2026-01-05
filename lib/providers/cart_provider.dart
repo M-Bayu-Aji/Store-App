@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/models/store.dart';
+import 'package:shopping_app/models/store.dart';
 
 class CartItem {
   final Store product;

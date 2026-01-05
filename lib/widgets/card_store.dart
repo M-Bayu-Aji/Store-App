@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/models/store.dart';
+import 'package:shopping_app/models/store.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class CardStore extends StatelessWidget {

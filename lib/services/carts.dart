@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
-import 'package:tugas_akhir_mandiri_pplgxii5/models/carts.dart';
+import 'package:shopping_app/models/carts.dart';
 
 class CartsService {
   final String apiUrl = "https://fakestoreapi.com/";

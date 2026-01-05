@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/rendering.dart';
-import 'package:tugas_akhir_mandiri_pplgxii5/models/store.dart';
+import 'package:shopping_app/models/store.dart';
 import 'package:http/http.dart' as http;
 
 class StoreService {
